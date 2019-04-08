@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Revolut Home Task- Android</string>
+    <string name="no_data">no_data</string>
+    <string name="flag_content_description">currency_country_flag</string>
+    <string name="edit_text_hint">0</string>
+</resources>
